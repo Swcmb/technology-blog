@@ -102,8 +102,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repository: git@github.com:Swcmb/blog.git
+  type: git
+  repository: git@github.com:Swcmb/technology-blog.git
   branch: TechnologyPush
 
 all_minifier: true
